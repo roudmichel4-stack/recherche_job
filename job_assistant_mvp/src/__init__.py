@@ -1,0 +1,1 @@
+"""Job Assistant MVP package."""
